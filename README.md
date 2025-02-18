@@ -1,5 +1,6 @@
 ## Hi there 👋
 let's work....
+how it feel to look at the algorithm lets check
 <!--
 **lazyskiddie/lazyskiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
