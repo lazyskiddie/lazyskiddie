@@ -9,12 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🤔 I’m looking for help with improving blockchain security.
 - 📫 How to reach me: sandeepsingh08550@gmail.com
   
-## 🛠️ Languages and Tools:
-- **Languages**: Swift, Dart, C
-- **Frameworks & Libraries**: Flutter
-- **Technologies**: Blockchain, AI, GenAI
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyskiddie&label=Profile%20views&color=0e75b6&style=flat" alt="lazyskiddie" /> </p>
 
 
