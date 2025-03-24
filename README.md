@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 - 💻 I’m currently working on building a financial assistant using GenAI for investors in India.
 - 🌱 I’m currently learning model traning.
-- 🤔 I’m looking for help with improving blockchain security. For blockvhain voating app
+- 🤔 I’m looking for help with improving blockchain security. For blockchain voating app
 - 📫 How to reach me: sandeepsingh08550@gmail.com
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyskiddie&label=Profile%20views&color=0e75b6&style=flat" alt="lazyskiddie" /> </p>
