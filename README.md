@@ -9,9 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🤔 I’m looking for help with improving blockchain security. on the other hand i want people with deep knowledge in finanace which can help me toward making the and Fulfill the INDIAN Dreams.
 - 📫 How to reach me: sandeepsingh08550@gmail.com
 
-  Build\n
-  For\n
-  Everyone
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazyskiddie&label=Profile%20views&color=0e75b6&style=flat" alt="lazyskiddie" /> </p>
 
