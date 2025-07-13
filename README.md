@@ -17,5 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </p>
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github)
+
+
 
 Thank you for visiting my profile! Feel free to reach out or check out my projects.
