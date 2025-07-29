@@ -17,7 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 </p>
 
 
-[![lazyskiddie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lazyskiddie&theme=github-compact&hide_border=true	)](https://github.com/lazyskiddie)
 
 
 
