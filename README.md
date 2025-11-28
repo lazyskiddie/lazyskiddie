@@ -22,4 +22,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 
 
-Thank you for visiting my profile! Feel free to reach out or check out my projects.
+Thank you for visiting my profile! Feel free to reach out.
