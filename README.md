@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 
 ## 🚀 About Me
-- 💻 I’m currently working on building a financial assistant using GenAI for investors in India help the indian people to learn how to manage the money and take care of their finnances.
-- 🌱 I’m currently learning model traning and AI Agents.
-- 🤔 I’m looking for help with improving blockchain security. on the other hand i want people with deep knowledge in finanace which can help me toward making the and Fulfill the INDIAN Dreams.
+- 💻 I’m currently working and building something exciting.....
 - 📫 How to reach me: sandeepsingh08550@gmail.com
 
   
