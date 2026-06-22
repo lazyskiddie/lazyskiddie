@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
     <img src="https://img.shields.io/badge/Email-sandeepsingh08550@gmail.com-red?style=flat" />
 </a>
 
+# Currently working on Projects:
+- https://pdf-editor-3dk.pages.dev
+- https://background-removers.pages.dev/
 
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lazyskiddie&label=Profile%20views&color=0e75b6&style=flat" alt="lazyskiddie" /> </p>
